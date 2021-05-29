@@ -1,0 +1,26 @@
+h1{
+    color: rgb(74, 50, 117); 
+    font-size: xx-large;
+    font-family: fantasy;
+    background-color: rgb(58, 141, 79);
+    margin: auto;
+    }
+.border {border:5px solid black
+}
+
+
+body{
+    background-color: rgb(141, 160, 124);
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: 50;
+    line-height: 1.4em;
+    }
+
+#construction { 
+    font-family: monospace;
+        }
+
+.arial {color: firebrick;
+    background-image: url(wienogmeer.jpg);
+    }
